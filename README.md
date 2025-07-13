@@ -1,1 +1,1 @@
-https://hellomasha.github.io/rsschool-cv/cv
+https://hellomasha.github.io/rsschool-cv/
