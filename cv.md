@@ -23,7 +23,7 @@
 ```
 
 ## Опыт работы 
-- https://github.com/hellomasha/sail-club (HTML, CSS)
+- [Sail Club](https://github.com/hellomasha/sail-club) (HTML, CSS)
 
 ## Образование 
 - Высшее профессиональное образование по специальности лингвист-переводчик (английский язык)
