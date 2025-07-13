@@ -1,1 +1,1 @@
-# rsschool-cv
+https://hellomasha.github.io/rsschool-cv/cv
